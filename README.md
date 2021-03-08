@@ -8,7 +8,7 @@ install opencv
 
     pip install opencv-python
 
-if any error related to skbuild occues use following commands
+if any error related to skbuild occurs use following commands
 skbuild is for Scikit-build.
 
 Install it using pip:
